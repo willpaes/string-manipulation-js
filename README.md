@@ -33,7 +33,7 @@ cd string-manipulation-js
 node index.js
 
 
-📋 Output
+## 📋 Output
 
 Original string:
 I love cats.
@@ -51,6 +51,6 @@ love love love
 I love love love learning.
 
 
-📝 License
+## 📝 License
 
 This project is open source and available under the MIT License.
