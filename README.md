@@ -50,6 +50,16 @@ I love learning!
 love love love
 I love love love learning.
 
+### Technologies Used
+
+- JavaScript (ES6+)
+- Node.js
+
+## Author
+
+Developed by Fabio William
+
+[LinkedIn](https://www.linkedin.com/in/fabio-william-paes-lima-4b31751b4) | [GitHub](https://github.com/willpaes)
 
 ## 📝 License
 
